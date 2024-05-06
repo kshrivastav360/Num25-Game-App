@@ -1,6 +1,5 @@
-# numberproj
-
-A new Flutter project.
+# Num25 Game App Project
+# I developed a number sequence game app using Flutter. The app Challenges user to identify and continue numerical sequences within a specified time-limit, enhancing their cognitive skills.
 
 ## Getting Started
 
