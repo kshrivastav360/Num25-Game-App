@@ -7,3 +7,5 @@
 ![loginscreen](https://github.com/kshrivastav360/Num25-Game-App/assets/145746248/f0125cfd-de6f-4208-aa7e-763edb796a11)
 
 ![levels](https://github.com/kshrivastav360/Num25-Game-App/assets/145746248/afe6fe2c-eeac-4704-b190-abb829422dcc)
+
+![looks](https://github.com/kshrivastav360/Num25-Game-App/assets/145746248/ad84b7c0-78eb-4191-942c-ae807ab110d1)
