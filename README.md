@@ -1,15 +1,7 @@
 # Num25 Game App Project
 # I developed a number sequence game app using Flutter. The app Challenges user to identify and continue numerical sequences within a specified time-limit, enhancing their cognitive skills.
 
-## Getting Started
+## output
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![loginscreen](https://github.com/kshrivastav360/Num25-Game-App/assets/145746248/f0125cfd-de6f-4208-aa7e-763edb796a11)
